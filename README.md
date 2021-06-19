@@ -40,7 +40,7 @@
 ![APIs](./resources/APIs.jpg?raw=true "APIs")
 
 Task 1 - To start and stop the zookeeper and kafka
-Task 2 - To create topics
+Task 2 - To create topics, producers and consumers
 
 ### Features
 
