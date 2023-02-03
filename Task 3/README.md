@@ -1,6 +1,6 @@
 ## Task 3 - To create multi node zookeeper servers and kafka servers
 
-- Zookeeper cluser has multiple nodes (servers).
+- Zookeeper cluster has multiple nodes (servers).
 - The nodes elect one node as their leader.
 - The number of nodes in Zookeeper cluster should be odd in number as strongly recommended in documentation, so that election of leader is easy.
 - In zoo.cfg file, we have
